@@ -6,7 +6,7 @@
  * http://gmarwaha.com/jquery/jcarousellite/
  * 
  * Modified by
- * http://mikeallisononline.com/jquery/jcarousellite.html
+ * http://mikeallisononline.com/jquery/jcarousellite/
  * https://github.com/mike-allison/ganesh-jcarousel-lite
  *
  * Copyright (c) 2007 Ganeshji Marwaha (gmarwaha.com)
